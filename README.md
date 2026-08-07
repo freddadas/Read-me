@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FFFF00&height=120&section=header"/>
 
 <div align="center">
   <H3>Olá! Eu sou o Miguel, apelidado de Fred</H3>
@@ -18,4 +18,4 @@ A procura de novos sistemas pra me especializar.
 ## 📈Status
 A procura de estágio ou novos projetos.
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2F4F4F&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#FFFF00&height=120&section=footer"/>
